@@ -70,12 +70,12 @@ Skills: C / C++ / BOOTSTRAP / JS / HTML / CSS
 
 <p align="center">
   <a href="https://github.com/rayhan-303">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayhan-303&theme=radical" alt="Efat's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayhan-303&theme=radical" alt="M Rayhan's GitHub Contribution"/>
   </a>
 </p>
 
 
-![Efat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rayhan-303&custom_title=Efat's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![M Rayhan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rayhan-303&custom_title=M Rayhan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
